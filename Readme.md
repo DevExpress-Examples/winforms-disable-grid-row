@@ -10,6 +10,17 @@
 <p>This example demonstrates how to enable/disable rows using the new behavior. A disabled row is a row that has specific appearance, and its in-place editors can't be activated.
 </p>
 
+
+
+
+
+
+
+
+<b>See also:</b>
+
+[DevExpress WinForms Cheat Sheet - Access, Modify and Validate Rows and Cells of a Data-Aware control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T904183.aspx)
+
+[DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
+
 <br/>
-
-

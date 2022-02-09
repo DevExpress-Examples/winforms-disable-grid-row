@@ -19,6 +19,7 @@ Disabled rows are painted with grayed out appearance settings. In-place editors 
 <!-- default file list end -->
 
 ## Documentation
+- [Behaviors](https://docs.devexpress.com/WindowsForms/117235/common-features/behaviors)
 - [BehaviorManager](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.Behaviors.BehaviorManager)
 - [Disabled Cell Behavior](https://docs.devexpress.com/WindowsForms/401146/common-features/behaviors/disabled-cell-behavior)
 

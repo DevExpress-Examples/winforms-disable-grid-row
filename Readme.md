@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Data Grid for Windows Forms - How to disable a particular row in a Grid Control
+# Data Grid for Windows Forms - How to disable a specific row in a Grid Control
 
 This example uses the [Disabled Cell Behavior](https://docs.devexpress.com/WindowsForms/401146/common-features/behaviors/disabled-cell-behavior) (part of the [BehaviorManager](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.Behaviors.BehaviorManager) component) to disable individual rows in a [Grid Control](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl). 
 

@@ -8,7 +8,7 @@
 
 This example uses the [Disabled Cell Behavior](https://docs.devexpress.com/WindowsForms/401146/common-features/behaviors/disabled-cell-behavior) (part of the [BehaviorManager](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.Behaviors.BehaviorManager) component) to disable individual rows in a [Grid Control](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl). 
 
-Disabled rows are painted with grayed out appearance settings. In-place editors cannot be activated for these rows.
+Disabled rows are grayed out. In-place editors cannot be activated for these rows.
 
 
 <!-- default file list -->

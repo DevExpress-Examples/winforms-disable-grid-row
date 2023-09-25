@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - How to disable a specific data row
 
-This example uses the [Disabled Cell Behavior](https://docs.devexpress.com/WindowsForms/401146/common-features/behaviors/disabled-cell-behavior) (shipped as part of the [WinForms BehaviorManager](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.Behaviors.BehaviorManager) component) to disable certain data rows in a [Grid Control](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl). Disabled rows are grayed out. Users can not edit cell values in these rows.
+This example uses the [Disabled Cell Behavior](https://docs.devexpress.com/WindowsForms/401146/common-features/behaviors/disabled-cell-behavior) (shipped as part of the [WinForms BehaviorManager](https://docs.devexpress.com/WindowsForms/DevExpress.Utils.Behaviors.BehaviorManager) component) to disable certain data rows in a [Grid Control](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.GridControl). Disabled rows are grayed out. Users cannot edit cell values in these rows.
 
 
 <!-- default file list -->
